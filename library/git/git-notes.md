@@ -106,6 +106,14 @@ stash 修改并添加说明
 
 
 ### git diff
+比较工作区与暂存区
+`git diff`
+
+比较工作区与repo
+`git diff HEAD` 等价于 `git diff <branch>`
+
+比较暂存区与repo
+`git diff --staged`
 
 ### .gitignore
 ![3f5f153c86836bfd167977efa1222bac.png](evernotecid://9D6C7E1A-5328-4E86-B5F1-4A03CCA9B003/appyinxiangcom/8957728/ENResource/p9219)
