@@ -123,7 +123,7 @@ stash 修改并添加说明
 ## 进阶命令
 
 ## 概念
-### 三种状态有三个区
+### 三种状态与三个区
 * untracked: untracked 实际在 git 管理之外
 * modified: 工作区(working directory)
 * staged: 暂存区(staging area)
