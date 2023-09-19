@@ -12,7 +12,6 @@
 撤销修改
 `git checkout -- <file>`
 
-
 ### stash
 stash 所有修改
 `git stash`
@@ -134,4 +133,5 @@ git config --global alias.co checkout
 git config --global alias.br branch  
 git config --global alias.ci commit
 git config --global alias.st status
+git config --glboal core.editor vim
 ```
